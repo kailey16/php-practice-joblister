@@ -1,0 +1,26 @@
+body {
+    font-family: 'Sen', sans-serif;
+}
+
+.main-container {
+    padding-bottom: 3vh;
+    text-align: center;
+}
+
+.find-form {
+    width: 40vw;
+    margin: 2vh 0 0 11vw;
+}
+
+.job-title {
+    color: rgb(10, 117, 10);
+}
+
+.single-container {
+    margin: 10vh 20vw 10vh 20vw;
+}
+
+
+.alert {
+    margin-top: 7vh;
+}
